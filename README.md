@@ -1,0 +1,2 @@
+# kiputtt
+skema rangkaian battrai
